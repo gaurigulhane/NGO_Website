@@ -23,7 +23,6 @@ The website serves as a digital presence for the foundation, showcasing its miss
 
 <div align="center">
   <img width="800" alt="AVABODH Foundation Website UI Preview" src="https://github.com/user-attachments/assets/<img width="1440" height="884" alt="image" src="https://github.com/user-attachments/assets/41ad6e58-766e-43a7-b9c9-8e89ceee030a" />
-" />
 </div>
 
 
