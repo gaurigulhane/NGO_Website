@@ -22,10 +22,10 @@ The website serves as a digital presence for the foundation, showcasing its miss
 ## 🖥️ UI Preview
 
 <div align="center">
-  <img width="800" alt="AVABODH Foundation Website UI Preview" src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID_HERE" />
+  <img width="800" alt="AVABODH Foundation Website UI Preview" src="https://github.com/user-attachments/assets/<img width="1440" height="884" alt="image" src="https://github.com/user-attachments/assets/41ad6e58-766e-43a7-b9c9-8e89ceee030a" />
+" />
 </div>
 
-> **Pages shown:** Home · About · Gallery · Contact
 
 ---
 
@@ -235,5 +235,3 @@ AVABODH Foundation actively collaborates with companies and institutions for CSR
 This project is developed for **AVABODH Foundation**. All rights reserved.
 
 ---
-
-*Made with ❤️ to support grassroots community development across India.*
