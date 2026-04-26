@@ -22,10 +22,11 @@ The website serves as a digital presence for the foundation, showcasing its miss
 ## 🖥️ UI Preview
 
 <div align="center">
-  <img width="800" alt="AVABODH Foundation Website UI Preview" src="https://github.com/user-attachments/assets/<img width="1440" height="884" alt="image" src="https://github.com/user-attachments/assets/41ad6e58-766e-43a7-b9c9-8e89ceee030a" />
+  <img src="https://github.com/user-attachments/assets/41ad6e58-766e-43a7-b9c9-8e89ceee030a" 
+       alt="AVABODH Foundation Website UI Preview" 
+       width="900"
+       style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
 </div>
-
-
 ---
 
 ## ✨ Features
